@@ -1,5 +1,6 @@
 fun main(args: Array<String>) {
     println("asdfadsf你好")
-    var list = listOf("aa","bb")
+    var list = mutableListOf("aa","bb")
+    list.add("cc")
     println (list)
 }
