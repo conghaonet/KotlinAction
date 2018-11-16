@@ -1,3 +1,5 @@
 fun main(args: Array<String>) {
-    print("asdfadsf你好")
+    println("asdfadsf你好")
+    var list = listOf("aa","bb")
+    println (list)
 }
